@@ -1,4 +1,4 @@
-![Light Logo](https://cdn.discordapp.com/icons/755764949636349952/c48a75a3de1568375853a8e12fd295a2.png?size=128) 
+![Light Logo](https://cdn.discordapp.com/icons/755764949636349952/c48a75a3de1568375853a8e12fd295a2.png?size=128) Light bot
 # Light-Bot
 
 
