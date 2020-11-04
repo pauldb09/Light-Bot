@@ -1,4 +1,6 @@
 # Light-Bot
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 *Ce bot est utilisé par plus de 130k utilisateurs Discord et plus de 100 serveurs.*
 
 Date de création: Crée le 26 octobre 2020
