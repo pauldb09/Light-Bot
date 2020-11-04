@@ -1,5 +1,6 @@
+![Light Logo](https://cdn.discordapp.com/icons/755764949636349952/c48a75a3de1568375853a8e12fd295a2.png?size=128) 
 # Light-Bot
-![Light Logo](https://cdn.discordapp.com/icons/755764949636349952/c48a75a3de1568375853a8e12fd295a2.png?size=128)
+
 
 *Ce bot est utilisé par plus de 130k utilisateurs Discord et plus de 100 serveurs.*
 
