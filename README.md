@@ -1,4 +1,4 @@
-![Light Logo](https://cdn.discordapp.com/icons/755764949636349952/c48a75a3de1568375853a8e12fd295a2.png?size=128) https://discord.gg/X6jZrUf
+![Light Logo](https://cdn.discordapp.com/icons/755764949636349952/c48a75a3de1568375853a8e12fd295a2.png?size=128) 
 # Light-Bot
 
 
@@ -25,8 +25,7 @@ work, profil, like,ch, cp,setbio,cu,inv,vendre,ra,mn, inv-valeur , recolter,donn
 * 🔨 | Utilitaires :
 rank,sugg , help,serverinfo ,serverole, userinfo , botinfo,classement, rename,bot , img, uptime , servericon, bug, staff, serveremoji , userinfo, roleinfo , credits, v , embed,setwelcomechannel , setautorole , setleavechannel , setlogschannel ,setsuggchannel,setlevel, unsetwelcomechannel , unsetautorole , unsetleavechannel ,unsetlogschannel, unsetsuggchannel,unsetlevel
 
-Links
-Discord
-Twitter
-Github
-License
+# liens utiles
+[Discord](https://discord.gg/X6jZrUf)
+[Site](https://discord.gg/X6jZrUf)
+
