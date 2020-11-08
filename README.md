@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/discord/761541041152983050.svg?logo=discord&colorB=7289DA)](https://discord.gg/X6jZrUf)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
-[![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.com/paypalme/DeltaBot)
+[![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.com/paypalme/LightBot)
 
 > Ce bot étais utilisé par plus de 130k utilisateurs Discord et plus de 250 serveurs.
 
