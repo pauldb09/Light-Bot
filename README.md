@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="DeltaTickets" src="https://images-ext-2.discordapp.net/external/9KwXJOGglBNJZI23sp6rUpf0Q2995ogX-XGIpcvuPTA/https://cdn.discordapp.com/icons/755764949636349952/c48a75a3de1568375853a8e12fd295a2.png?size=128">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="DeltaTickets" src="https://cdn.discordapp.com/icons/755764949636349952/c48a75a3de1568375853a8e12fd295a2.png?size=128">  
 
 # Light bot
 
