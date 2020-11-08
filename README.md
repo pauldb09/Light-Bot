@@ -1,8 +1,12 @@
-![Light Logo](https://cdn.discordapp.com/icons/755764949636349952/c48a75a3de1568375853a8e12fd295a2.png?size=128) 
-# Light-Bot
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="DeltaTickets" src="https://images-ext-2.discordapp.net/external/9KwXJOGglBNJZI23sp6rUpf0Q2995ogX-XGIpcvuPTA/https/cdn.discordapp.com/avatars/758056844240617502/a4f8733d76152865c78e1f7c60f3c03a.webp">  
 
+# Light bot
 
-*Ce bot est utilisé par plus de 130k utilisateurs Discord et plus de 100 serveurs.*
+[![](https://img.shields.io/discord/761541041152983050.svg?logo=discord&colorB=7289DA)](https://discord.gg/X6jZrUf)
+[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+[![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.com/paypalme/DeltaBot)
+
+> Ce bot étais utilisé par plus de 130k utilisateurs Discord et plus de 250 serveurs.
 
 Date de création: Crée le 26 octobre 2020
 Date de mise en ligne Github: Le 27 octobre 2020
